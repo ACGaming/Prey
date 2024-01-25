@@ -1,0 +1,12 @@
+[
+  {
+    "modid": "prey",
+    "name": "Prey",
+    "description": "Mobs target you from further away through one simple effect!",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/ACGaming/Prey",
+    "authorList": ["ACGaming"],
+    "credits": "CleanroomMC"
+  }
+]
